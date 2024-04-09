@@ -1,0 +1,49 @@
+
+				---------------Well come to Lyfe Style System ------------
+
+					step 1 : create databse "life_style"
+
+					step 2 : import "life_style.sql" file into database from Php folder.
+				
+
+			================= Now Your System is Ready to Use============
+
+					    for Admin 
+
+					admin : admin@gmail.com
+					pass  : admin
+
+			======================== for Patient ==========================
+
+					Patient : mehedi@gmail.com (default user)
+					pass    : 123
+
+
+			======================== for Doctor==========================
+
+					Doctor: mehedi@gmail.com (default user)
+					pass    : 123
+
+
+			======================== for Nutrition ==========================
+
+					Nutrition : mehedi221@gmail.com(default student)
+					pass      : 123
+
+			======================== for Psychologist ==========================
+
+					Psychologist : jhon@gmail.com(default student)
+					pass         : 123
+
+
+			======================== for Social Worker ==========================
+
+					social worker: saem@gmail.com(default student)
+					pass  	     : 123
+
+
+
+	If any query please contact with me: 01941697253 or mdmehedihasan221@gmail.com 
+
+				
+			======================== Thank You =============================

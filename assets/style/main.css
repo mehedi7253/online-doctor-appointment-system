@@ -1,0 +1,42 @@
+.admission{
+    background-color: #9A258E;
+    font-size: 20px;
+    font-family: "Harlow Solid Italic";
+    text-transform: capitalize;
+    color: white;
+}
+.slide_body{
+    background-image: url("../../images/doctor.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: auto;
+    width: 100%;
+}
+.slide_head{
+    margin-top: 13%;
+    font-style: italic;
+    font-size: 15px;
+    margin-left: 10%;
+}
+.login_area{
+    height: auto;
+    background-color: #3391E7;
+}
+.login_box{
+    background-color: white;
+    border-radius: 7px;
+    padding: 7px;
+    height: auto;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+}
+.main_body{
+    background-image: url("../../images/ime.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+}
